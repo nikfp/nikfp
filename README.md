@@ -1,7 +1,7 @@
 ## Hi, I’m @nikfp! 😉
 I’m interested in js, ts, rust, and getting really really good with unix systems. 
 
-I'm an enthusiastic hobby developer that likes to observe, learn, and write about tech.
+I'm a long time hobby developer and a serial side project starter. I enjoy building things with code in a variety of technologies to better understand how it all fits together. I also enjoy thinking about the more esoteric and philosophical aspects of technology, how tech affects people, and how tech affects people's relationships with each other.   
 
 I’m currently learning Rust for fun, and Lua to help me configure and customize my Neovim setup. 
 
