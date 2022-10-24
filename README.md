@@ -13,6 +13,6 @@
 
 <p align="center" style="width: 80%;">
 <a href="https://blog.nikfp.com">
-<img src="https://user-images.githubusercontent.com/46945607/197637655-02e41982-3c60-4ded-9477-2d99ec7d916d.png" width="30%"/>
+<img src="https://user-images.githubusercontent.com/46945607/197637655-02e41982-3c60-4ded-9477-2d99ec7d916d.png" width="50%"/>
 </a>
 </p>
