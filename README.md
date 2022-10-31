@@ -16,3 +16,7 @@
 <img src="https://user-images.githubusercontent.com/46945607/197637655-02e41982-3c60-4ded-9477-2d99ec7d916d.png" width="50%"/>
 </a>
 </p>
+
+<h2 align="center">Most recent blog post:</h2>
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
