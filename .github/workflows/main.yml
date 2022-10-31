@@ -15,7 +15,8 @@ jobs:
         with:
           comment_tag_name: "BLOGPOSTS"
           feed_list: "https://blog.nikfp.com/rss.xml"
-          template: "<em><a href=$url>$title</a></em>"
-          max_post_count: 1
+          template: "<div align=\"center\"><p><em><a href=$url>$title</a></em></p><p>Published on: $date</p></div>"
+          max_post_count: 3
+          date_format: shortDate
 
      
