@@ -17,5 +17,5 @@
 </a>
 </p>
 
-<h2 align="center">Most recent blog post:</h2>
+<h2 align="center">Most recent blog posts:</h2>
 <!-- BLOGPOSTS:START --><div align="center"><p><strong><a href=https://blog.nikfp.com/programming-is-everything-and-everything-is-programming>Programming is everything and everything is programming!</a></strong></p><p>Published on: 10/14/22</p></div><br/><div align="center"><p><strong><a href=https://blog.nikfp.com/exploring-the-guilds-incredible-graphql-tools>Exploring The Guild&#39;s incredible GraphQL tools</a></strong></p><p>Published on: 6/15/22</p></div><br/><div align="center"><p><strong><a href=https://blog.nikfp.com/soft-skills-checkup-the-many-phases-of-managing>Soft Skills checkup: The many phases of Managing</a></strong></p><p>Published on: 5/24/22</p></div><br/><!-- BLOGPOSTS:END -->
