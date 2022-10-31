@@ -18,4 +18,4 @@
 </p>
 
 <h2 align="center">Most recent blog post:</h2>
-<!-- BLOGPOSTS:START --><em>[Programming is everything and everything is programming!](https://blog.nikfp.com/programming-is-everything-and-everything-is-programming)</em><em>[Exploring The Guild&#39;s incredible GraphQL tools](https://blog.nikfp.com/exploring-the-guilds-incredible-graphql-tools)</em><em>[Soft Skills checkup: The many phases of Managing](https://blog.nikfp.com/soft-skills-checkup-the-many-phases-of-managing)</em><em>[GraphQL as a powerful abstraction layer](https://blog.nikfp.com/graphql-as-a-powerful-abstraction-layer)</em><em>[Learning to code isn&#39;t just for developers](https://blog.nikfp.com/learning-to-code-isnt-just-for-developers)</em><!-- BLOGPOSTS:END -->
+<!-- BLOGPOSTS:START --><em><a href=https://blog.nikfp.com/programming-is-everything-and-everything-is-programming>Programming is everything and everything is programming!</a></em><!-- BLOGPOSTS:END -->
