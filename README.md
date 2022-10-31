@@ -19,4 +19,8 @@
 
 <h2 align="center">Most recent blog post:</h2>
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [Programming is everything and everything is programming!](https://blog.nikfp.com/programming-is-everything-and-everything-is-programming)
+ - 💫 [Exploring The Guild&#39;s incredible GraphQL tools](https://blog.nikfp.com/exploring-the-guilds-incredible-graphql-tools)
+ - 💫 [Soft Skills checkup: The many phases of Managing](https://blog.nikfp.com/soft-skills-checkup-the-many-phases-of-managing)
+ - 💫 [GraphQL as a powerful abstraction layer](https://blog.nikfp.com/graphql-as-a-powerful-abstraction-layer)
+ - 🌮 [Learning to code isn&#39;t just for developers](https://blog.nikfp.com/learning-to-code-isnt-just-for-developers)<!-- BLOGPOSTS:END -->
