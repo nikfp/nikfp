@@ -1,11 +1,11 @@
 <h2 align="center">Hi, I’m @nikfp! 😉</h2>
-<p align="center">I’m interested in js, ts, rust, and getting really really good with unix systems.</p>
+<p align="center">I’m interested in js, ts, distributed systems, and using code to make life easier.</p>
 
 <p align="center">I'm a long time hobby developer and a serial side project starter. I enjoy building things with code in a variety of technologies to better understand how it all fits together. I also enjoy thinking about the more esoteric and philosophical aspects of technology, how tech affects people, and how tech affects people's relationships with each other.</p>   
 
-<p align="center">I’m currently learning Rust for fun, and Lua to help me configure and customize my Neovim setup.</p>
+<p align="center">I’m currently learning Rust for fun, occasionally hacking on my Neovim setup, and building an app called <a href="https://github.com/nikfp/NoteTree">NoteTree</a> that is a nested notes app with markdown support, that runs on serverless environments and a Postgres database. (Still in early days though)</p>
 
-<p align="center">I’m looking to collaborate on open source work surrounding the Jamstack ecosystem and developer tools in Lua. </p>
+<p align="center">I’m looking to collaborate on open source work surrounding the Jamstack ecosystem and developer tools in general. </p>
 
 <p align="center">I have a thing with ducks. There is some history there that I might tell you about sometime.</p> 
 
